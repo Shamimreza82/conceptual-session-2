@@ -226,6 +226,7 @@ li:hover {
     background-color: rgb(255, 255, 255);
     text-align: center;
     padding: 70px 50px;
+    font-family: 
 }
 
 .Cards-box {
@@ -275,13 +276,8 @@ li:hover {
     align-items: center;
     gap: -30px;
     padding: 0 90px;
-
-
 }
 
-footer {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
 .f-icons {
     width: 30px;
 }
@@ -305,4 +301,23 @@ footer {
 
 .ftext {
     padding: 5px 0;
+}
+
+
+                                    /* footer last */
+hr {
+    color: rgb(145, 146, 147);
+    margin-top: -60px;;
+    text-align: center;
+    border: 0.5px solid rgb(255, 255, 255);
+    
+}
+
+.footer-last {
+    color: aliceblue;
+    text-align: center;
+}
+
+.Copyright {
+    padding-top: 20px;
 }
