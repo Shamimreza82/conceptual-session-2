@@ -99,3 +99,63 @@ li:hover {
     font-weight: bold;
 }
 
+/* Service Section */
+
+.service-container {
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-box {
+    height: 250px;
+    width: 250px;
+    background-color: antiquewhite;
+}
+
+.service-para {
+    width: 50%;
+}
+
+.service-box-main {
+    padding-top: 5px;
+}
+
+/* Appointment Section */
+
+.apppo-Container{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto;
+    background-color: rgb(255, 0, 0);
+    height: 150px;
+    align-items:center;
+    padding: 0 25px;
+    gap: 40px;
+    margin-top: -70px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.number {
+    font-size: 16px;
+}
+.call-icon {
+    border-right: 2px solid wheat;
+    padding-right: 20px;
+}
+
+.img-1 {
+    
+}
